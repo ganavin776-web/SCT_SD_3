@@ -1,6 +1,6 @@
-# 🧩 Sudoku Solver (GUI)
+#  SkillCraft Technology Internship
 
-## 📌 Task 3 – SkillCraft Technology Internship
+## 📌 Task 3 – 🧩 Sudoku Solver (GUI) 
 
 This project is a GUI-based Sudoku Solver built using Python and Tkinter.
 
